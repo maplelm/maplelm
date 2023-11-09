@@ -2,9 +2,9 @@
 - I’m interested in
   - Game development and data analysis
 - I’m currently learning
-  - how to contribute to the github community
+  - how to contribute to the GitHub community
 - I’m looking to collaborate on
-  - Any C++ or python projects
+  - Any C++ or Rust projects
 - How to reach me
   - email: maplelm@gmail.com
 
